@@ -1,0 +1,5 @@
+sync:
+  - file-path: portals-debug-app
+    directory-name: ios/App/App/portals-debug-app
+  - file-path: portals-debug-app
+    directory-name: android/app/src/main/assets/portals-debug-app

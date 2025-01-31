@@ -1,0 +1,8 @@
+node_modules
+dist
+ios
+android
+portals-debug-app
+.env
+.portals
+.DS_Store
